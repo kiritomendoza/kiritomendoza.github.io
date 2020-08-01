@@ -62,18 +62,6 @@ src:url(../fuentes/Comfortaa-Bold.ttf)}
     cursor: pointer;
     border-radius: 6px;
 }
-
-.container-content article .kace button{
-    margin-top:20px;
-    margin-left: 20px;
-    padding: 10px 50px;
-    font-size: 16px;
-    background:Red;
-    border: none;
-    color:aliceblue;
-    cursor: pointer;
-    border-radius: 6px;}
-
 .container-content{width: 1200px;
 margin: auto;
 margin-top: 40px;
